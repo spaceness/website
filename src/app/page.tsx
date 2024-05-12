@@ -115,6 +115,11 @@ export default function Home() {
             profile="https://cdn.discordapp.com/avatars/1129545353717366884/842e2ea8a4cdfd4df820d9c70a3754d8.webp?size=80"
             url="https://rare1k.dev"
           />
+          <Member
+            name="flux"
+            profile="https://cdn.discordapp.com/avatars/1073074410187141121/975f390de879d244ccb8447680f47893.webp?size=80"
+            url="https://zirc.lol"
+          />
         </div>
       </div>
     </main>
