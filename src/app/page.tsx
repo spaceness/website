@@ -102,7 +102,7 @@ export default function Home() {
         <div className="flex flex-rows gap-4">
           <Member
             name="yosoof3"
-            profile="https://cdn.discordapp.com/avatars/1209715386489114645/4ad54f64ba17d7950a8d24769e4140f4.webp?size=128"
+            profile="https://cdn.discordapp.com/avatars/1209715386489114645/e2d25ae04dd290f03914fbfcbe326366.webp?size=128"
             url="https://yapping.monster"
           />
           <Member
@@ -112,13 +112,18 @@ export default function Home() {
           />
           <Member
             name="rare1k"
-            profile="https://cdn.discordapp.com/avatars/1129545353717366884/842e2ea8a4cdfd4df820d9c70a3754d8.webp?size=80"
+            profile="https://cdn.discordapp.com/avatars/1129545353717366884/842e2ea8a4cdfd4df820d9c70a3754d8.webp?size=128"
             url="https://rare1k.dev"
           />
           <Member
             name="flux"
-            profile="https://cdn.discordapp.com/avatars/1073074410187141121/975f390de879d244ccb8447680f47893.webp?size=80"
+            profile="https://cdn.discordapp.com/avatars/1073074410187141121/4c47ed18c116ea1d0b45a580001a8463.webp?size=128"
             url="https://zirc.lol"
+          />
+          <Member
+            name="akane"
+            profile="https://cdn.discordapp.com/avatars/1052016750486638613/456ffe5f5938e328ca3823f9a8fa948e.webp?size=128"
+            url="https://discord.com/users/1052016750486638613"
           />
         </div>
       </div>
