@@ -72,7 +72,7 @@ export default function Home() {
               containers.
             </p>
             <br></br>
-            <a target="_blank" href="https://stardust.spaceness.one">
+            <a target="_blank" href="https://stardust.spaceness.xyz">
               <Button className="w-full">Check it out</Button>
             </a>
           </div> */}
@@ -80,7 +80,7 @@ export default function Home() {
             title="Stardust"
             icon={<Sparkles />}
             description="Stardust is the platform for streaming isolated desktop containers"
-            url="https://stardust.spaceness.one"
+            url="https://stardust.spaceness.xyz"
           />
           <Project
             title="Trollsmoke"
